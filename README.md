@@ -1,1 +1,1 @@
-# Social Media User Interaction vs. Emotion
+# Social Media User Interaction vs. Emotional State
